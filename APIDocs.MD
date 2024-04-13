@@ -71,7 +71,7 @@ X-API-Key: your-api-key`
 ### 3. Get all products
 
 - **Endpoint**: `GET /products`
-- **Request Body**:
+- **Response Body**:
 ```json
 [
   {
